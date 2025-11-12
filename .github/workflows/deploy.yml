@@ -1,5 +1,5 @@
 name: Deploy Vite to GitHub Pages
-
+#test
 on:
   push:
     branches: [ main ]  # 메인 브랜치에 푸시될 때만 배포
